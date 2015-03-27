@@ -5,5 +5,4 @@
 5. 686 days in an orbital period (mars year)
 6. 7 moons
 7. Hosts 7 functioning space craft
-8. During a winter almost 20% of the air freezes
-9. Ranges from -200F to 72F
+
